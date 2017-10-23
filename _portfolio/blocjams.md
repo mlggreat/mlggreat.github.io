@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocJams
-thumbnail-path: "img/BlocJams.jpg"
+thumbnail-path: "img/BlocJams.JPG"
 short-description: Streaming music player similar to Spotify or Apple Music.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.jpg)
+![]({{ site.baseurl }}/img/BlocJams.JPG)
 
 ## Introduction
 
